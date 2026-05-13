@@ -1,3 +1,5 @@
+![Soyga Universe — Symbolic Cosmology and Recursive Reality](assets/covers/soyga_universe_cover_v1.svg)
+
 # Soyga Universe
 
 ## Symbolic Systems, Recursive Cosmology, Encoded Structures
