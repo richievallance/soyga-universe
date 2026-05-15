@@ -1,29 +1,50 @@
-![Soyga Universe — Symbolic Cosmology and Recursive Reality](assets/covers/soyga_universe_cover_v1.svg)
-
 # Soyga Universe
+## Symbolic Systems, Recursive Cosmology, and Encoded Manuscript Structures
 
-## Symbolic Systems, Recursive Cosmology, Encoded Structures
-
-**Author:** Richard Steven Vallance
-**Parent Ecosystem:** [universal-simulation-construct](https://github.com/richievallance/universal-simulation-construct)
-**Constitutional Classification:** Symbolic / Metaphysical Research
-**Publication Status:** 🟡 Draft Stage
-**Evidence Types:** TYPE D / TYPE E
+**Author:** Richard Steven Vallance  
+**Status:** 🟡 EXPERIMENTAL — Speculative research. Scholarly caution required.  
+**Last Updated:** May 2026
 
 ---
 
-## Purpose
+## ⚠️ Speculative Research Notice
 
-Soyga studies, symbolic systems, recursive cosmology, encoded structures, and metaphysical geometry. Constitutionally separate from Leonardo / Da Valenca ecosystem.
+**This repository contains speculative and experimental research.**
+
+The Soyga Universe project explores symbolic, cosmological, and cryptographic systems within the Book of Soyga and related manuscript traditions. Hypotheses include Fibonacci stepping, alternative calendar systems, heliocentric models, and constellation overlays. This work is at an early exploratory stage.
+
+**No claims in this repository are verified.** All are proposals under investigation.  
+Do not cite as established scholarship.
 
 ---
 
-## Evidential Limitations
+## Contents
 
-All propositions are experimental syntheses. Interpretive and speculative content requires adversarial review before academic citation.
+A multi-chapter manuscript (21 chapters + appendices) exploring:
+
+- Mathematical foundations of the Soyga tables
+- Table structure and symbolic grammar
+- Astronomical correlations
+- Architectural and archaeological correlates
+- Computational and harmonic models
+- Comparative manuscript parallels
 
 ---
 
-## Legal Notice
+## Classification
 
-© 2026 Richard Steven Vallance. All Intellectual Property and Copyright Reserved.
+**Symbolic / Speculative / Experimental**  
+This is **not** part of the Da Valenca Leonardo project.  
+Parent ecosystem: [universal-simulation-construct](https://github.com/richievallance/universal-simulation-construct)
+
+---
+
+## Licence
+
+© 2026 Richard Steven Vallance. All Intellectual Property Reserved.
+
+---
+
+## DOI Status
+
+**No DOI assigned. Not DOI-ready.** Speculative content requires significant review before any public scholarly release.
