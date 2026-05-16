@@ -1,0 +1,24 @@
+{
+  "title": "The Book of Soyga \u2014 Universal Cipher Edition",
+  "description": "First comprehensive reconstruction and analysis of the Book of Soyga (Aldaraia sive Soyga vocor). 21 chapters covering mathematical foundations, astronomical correlations, harmonic analysis, and comparative Voynich studies. Identifies a 32x32 meta-matrix lattice as the structural core of the thirty-two tables.",
+  "creators": [
+    {
+      "name": "Vallance, Richard Steven",
+      "affiliation": "The People Focused Group, Doncaster, UK"
+    }
+  ],
+  "keywords": [
+    "Book of Soyga",
+    "Voynich manuscript",
+    "Renaissance cipher",
+    "John Dee",
+    "harmonic analysis",
+    "mathematical philosophy"
+  ],
+  "license": "cc-by-4.0",
+  "upload_type": "publication",
+  "publication_type": "book",
+  "language": "eng",
+  "version": "1.0",
+  "publication_date": "2026-05-16"
+}
