@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: Vallance
+    given-names: Richard Steven
+    affiliation: "The People Focused Group, Doncaster, UK"
+title: "The Book of Soyga — Universal Cipher Edition: A Comprehensive Reconstruction and Analysis"
+version: "1.0"
+date-released: "2026-05-16"
+url: "https://github.com/richievallance/soyga-universe"
+license: CC-BY-4.0
+keywords:
+  - Book of Soyga
+  - Voynich manuscript
+  - Renaissance cipher
+  - John Dee
+  - harmonic analysis
+  - mathematical philosophy
+  - cryptographic manuscript
